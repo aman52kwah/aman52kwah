@@ -31,4 +31,12 @@ I Have been learning HTML,CSS for 2years
 
 ### Socials
 
-<p align="left"> <a href="https://www.twitter.com/hauzaKoko" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/aman52kwah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/hauzaKoko" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/aman52kwah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aman52kwah&stroke=000000&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=000000&currStreakLabel=ef4444&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
+
+<a href="https://github.com/aman52kwah" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman52kwah&langs_count=10&title_color=ef4444&text_color=000000&icon_color=ef4444&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
