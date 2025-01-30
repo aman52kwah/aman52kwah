@@ -10,7 +10,7 @@ I Have been learning HTML,CSS for 2years
 *   🖥️  See my portfolio at [MyPortfolio](http://my-portfolio-aman52kwah.vercel.app)
 *   ✉️  You can contact me at [amankwaamichael52@gmail.com](mailto:amankwaamichael52@gmail.com)
 *   🚀  I'm currently working on [myPortfolio](http://my-portfolio-aman52kwah.vercel.app)
-*   🧠  I'm learning PHP/Laravel
+*   🧠  I'm learning FRONT-END DEVELOPMENT
 *   🤝  I'm open to collaborating on web application(PHP Projects)
 *   ⚡  One of my goals to become a full stack developer### Skills 
 <p align="left">
