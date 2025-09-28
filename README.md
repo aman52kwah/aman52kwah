@@ -1,17 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MICAHEL YAW AMANKWAH
 ============================================================================================================================================
 
-WEB DEVELOPER
+FULLSTACK WEB DEVELOPER
 -------------
 
-I Have been learning HTML,CSS for 2years
+I'M ON THE PATH TO BECOME A FULLSTACK WEB DEVELOPER
 
 *   🌍  I based in GHANA
 *   🖥️  See my portfolio at [MyPortfolio](http://my-portfolio-aman52kwah.vercel.app)
 *   ✉️  You can contact me at [amankwaamichael52@gmail.com](mailto:amankwaamichael52@gmail.com)
 *   🚀  I'm currently working on [myPortfolio](http://my-portfolio-aman52kwah.vercel.app)
 *   🧠  I'm FullStack Web Developer
-*   🤝  I'm open to collaborating on web application(FRONTEND & Backend Projects)
+*   🤝  I'm open to collaborating on web application(FRONTEND & BACKEND Projects)
 *   ⚡  One of my goals to become a full stack software Engineer### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
